@@ -13,9 +13,5 @@
 - 💬 Talk to me about your Finite Element Models
 - 📝 I write articles once in a year on [personal Blog](iammix.github.io)
 - ⚡ Fun fact: 
-
-
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
 Last Edited on: 08/11/2021
