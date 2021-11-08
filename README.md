@@ -12,6 +12,6 @@
 - 🌱 I’m currently learning docker and kubernetes
 - 💬 Talk to me about your Finite Element Models
 - 📝 I write articles once in a year on [personal Blog](iammix.github.io)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: The above line . . .
 ----
 Last Edited on: 08/11/2021
