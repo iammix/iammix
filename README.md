@@ -15,3 +15,4 @@
 - ⚡ Fun fact: The above line . . .
 ----
 Last Edited on: 08/11/2021
+Connect: [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SHm8buFvvQ)
