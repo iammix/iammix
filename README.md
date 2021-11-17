@@ -16,4 +16,4 @@
 ----
 Last Edited on: 08/11/2021  
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SHm8buFvvQ)  
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iammix?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/iammix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iammix?tab=followers)
