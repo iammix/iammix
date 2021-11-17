@@ -15,4 +15,5 @@
 - ⚡ Fun fact: The above line . . .
 ----
 Last Edited on: 08/11/2021  
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SHm8buFvvQ)
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SHm8buFvvQ)  
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iammix?tab=followers)
