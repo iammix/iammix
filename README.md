@@ -9,8 +9,6 @@
 ### 🤵 About Me:
 - 🏦 Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.py``` ```.cpp``` ```Makefile```
-- 🌱 I’m currently learning docker and kubernetes
 - 📝 I write blogposts once in a year on [personal Blog](https://mixiosk.com)
-- ⚡ Fun fact: The above line . . .
 ----
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/SHm8buFvvQ)                [![GitHub followers](https://img.shields.io/github/followers/iammix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iammix?tab=followers)
